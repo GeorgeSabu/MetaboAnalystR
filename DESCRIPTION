@@ -8,7 +8,7 @@ Description: This package contains the R functions and libraries underlying the 
     metabolic pathway analysis, and biomarker analysis. The package is synchronized with the web server. After installing and 
     loading the package, users will be able to reproduce the same results from their local computers using the corresponding R 
     command history downloaded from MetaboAnalyst, to achieve maximum flexibility and reproducibility.   
-Depends: R (>= 3.4.4), lattice, methods, pls
+Depends: R (>= 3.4.3), lattice, methods, pls
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
